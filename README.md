@@ -6,17 +6,21 @@ This project demonstrates a **complete data science pipeline** — from data col
 
 ---
 
-## ✨ Features
+## Features
 
 • Collects fashion trend data from Google Trends
+
 • Analyzes popularity patterns across time
+
 • Predicts future trends using machine learning
+
 • Visualizes trends with graphs
+
 • Interactive dashboard built with **Streamlit**
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The system follows a simple AI pipeline:
 
@@ -37,7 +41,7 @@ The system follows a simple AI pipeline:
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 Fashion-Trend-Prediction
@@ -64,7 +68,7 @@ Fashion-Trend-Prediction
 
 ---
 
-## 📊 Example Trend Output
+## Example Trend Output
 
 Predicted future fashion trends:
 
@@ -78,7 +82,7 @@ Trend visualization shows how search interest changes over time.
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 ### Install Dependencies
 
@@ -106,7 +110,7 @@ http://localhost:8501
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
@@ -118,21 +122,16 @@ http://localhost:8501
 
 ---
 
-## 📌 Possible Improvements
+##  Possible Improvements
 
 • Add Instagram or Pinterest trend data
 • Use deep learning for prediction
 • Deploy the dashboard online
 • Integrate outfit recommendation models
 
----
-
-## 👩‍💻 Author
-
-**Deepthi N Reddy**
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
 Consider starring the repository!
